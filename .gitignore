@@ -1,0 +1,55 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Tt]argets/
+[Dd]ebug/
+[Dd]ebugPublic/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# User-specific files
+[Tt]emp/
+[Uu]serSettings/
+
+# Build results
+/[Bb]uild/
+/[Bb]uilds/
+
+# Unity3D crash reports
+sysinfo.txt
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# JetBrains Rider
+.idea/
+
+# VS Code settings
+.vscode/
+
+# User-specific Visual Studio files
+.vs/
+.vs2017/
+.vs2019/
+.idea/
+
+# User-specific files for Unity IDE
+*.user
+*.userprefs
+
+# Uncomment if you have tasks that create documentation
+# docs/
+
+# Uncomment if you use Unity Asset Store tools
+# AssetStoreTools*
+
+# Unity Package Manager
+.pnpm-debug.log
