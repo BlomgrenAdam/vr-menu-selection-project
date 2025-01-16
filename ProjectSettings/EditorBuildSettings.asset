@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuSelction.unity
+    guid: 1fa0d409795b2d14783f011eaf33c054
+  - enabled: 0
+    path: Assets/Scenes/MenuSelectionDraft2.1.unity
+    guid: 520c61b4b6095c14986e7b7a46756864
+  - enabled: 0
+    path: Assets/Scenes/MenuSelectionDraft2.0.unity
+    guid: e26d8e333d012514283a00f994852bd0
+  - enabled: 0
+    path: Assets/Grabbable Cube Menu/Example/Example Scene.unity
+    guid: 799a5917efba47a4eadd51c9eb423fa9
+  - enabled: 0
+    path: Assets/Scenes/MenuSelection1.0Draft.unity
+    guid: a57d38a8f99e7e542a9d5c66a009431f
+  - enabled: 0
+    path: Assets/Scenes/CubeGaze.unity
+    guid: 365fed9dc80738545802ce999712f220
+  - enabled: 0
+    path: Assets/Scenes/CubeRay.unity
+    guid: 08d3aba138c770f4c86618aaa70ae88a
+  - enabled: 0
+    path: Assets/Scenes/RadialGaze.unity
+    guid: 6b880ef8ee4979843acf2151883971bc
+  - enabled: 0
+    path: Assets/Scenes/RadialRay.unity
+    guid: 16158335d0657394a92b95dbe83be164
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 127b6cd3fc603dd47b7c01d1ac8add40, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 424f64efd6abc84489e08d22a56a4201, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: bf76b205db7a84b4fbd2c563fab83edb, type: 2}
+  m_UseUCBPForAssetBundles: 0
